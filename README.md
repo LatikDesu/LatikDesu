@@ -1,8 +1,6 @@
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   
 I am Python Backend Developer. I have a strong foundation in Python programming language and Django web framework. My experience with SQL and NoSQL databases, RESTful API design, and AWS cloud services has prepared me for the challenges of developing scalable and robust applications.
-
-I am passionate about using technology to solve real-world problems and am always looking for new ways to improve my skills and knowledge. I am a quick learner and thrive in collaborative environments, where I can work with others to develop creative solutions to complex problems.
   
   #### 📫 How to reach me:
   
