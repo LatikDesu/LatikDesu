@@ -1,13 +1,8 @@
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-  
-  - 🔭 I’m currently working as a Software Developer in Bengaluru, India
-  - 🌱 I’m currently learning Machine Learning and Big Data
-  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
-  - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
+I am Python Backend Developer. I have a strong foundation in Python programming language and Django web framework. My experience with SQL and NoSQL databases, RESTful API design, and AWS cloud services has prepared me for the challenges of developing scalable and robust applications.
+
+I am passionate about using technology to solve real-world problems and am always looking for new ways to improve my skills and knowledge. I am a quick learner and thrive in collaborative environments, where I can work with others to develop creative solutions to complex problems.
   
   #### 📫 How to reach me:
   
