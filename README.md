@@ -1,5 +1,5 @@
   # 💫 About Me:
-🔭 I am Python Backend Developer. I have a strong foundation in Python programming language and Django web framework. My experience with SQL and NoSQL databases, RESTful API design, and AWS cloud services has prepared me for the challenges of developing scalable and robust applications.<br>👯 Always ready to collaborate for Dev Experiments<br>🌱 I’m currently learning JavaScript, TypeScript<br>
+🔭 I am Python Backend Developer. I have a strong foundation in Python programming language and Django, FastAPI web frameworks. My experience with SQL and NoSQL databases, RESTful API design, and AWS cloud services has prepared me for the challenges of developing scalable and robust applications.<br>👯 Always ready to collaborate for Dev Experiments<br>🌱 I’m currently learning JavaScript, TypeScript<br>
   
   ### 📫 How to reach me:
   
