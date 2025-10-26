@@ -1,17 +1,10 @@
-<div align="center" id="badges">
-   <a href="https://t.me/EvgenyAbrosimov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="mailto:evga.abrosimov@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/evg-abrosimov/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+## Hey 👋, I'm Evgeny!
+<a href='https://linkedin.com/in/evg-abrosimov/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/LatikDesu/LatikDesu/b339b6e580c4f847c0d28a595c742a3b5a966384/assets/linkedin.svg" height='18px'/></a>
+<a href='https://hub.docker.com/repositories/esoraine'><img align='left' alt="docker" src="https://raw.githubusercontent.com/LatikDesu/LatikDesu/fe8a2507bda5efd7e0a5eb753df972b30df59e85/assets/docker.svg" height='18px'/></a>
+<a href='https://www.behance.net/evgendesu'><img align='left' alt="behance" src="https://raw.githubusercontent.com/LatikDesu/LatikDesu/b339b6e580c4f847c0d28a595c742a3b5a966384/assets/behance.svg" height='18px'/></a>
+<a href='https://t.me/EvgenyAbrosimov'><img alt="telegram" src="https://raw.githubusercontent.com/LatikDesu/LatikDesu/fe8a2507bda5efd7e0a5eb753df972b30df59e85/assets/telegram.svg" height='18px'/></a>
 
- <h1 align="center">  Hi, I'm <a href="https://resume.latikdesu.art/" target="_blank">Evgeny</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> </h1>
+
 
 ### 👨‍💻 About Me :
 
@@ -20,29 +13,29 @@
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 - 🌱 I’m currently learning JavaScript, TypeScript
 
-### 💻 My frontend tech stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🔨 Languages and Tools:
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-### 💻 My backend tech stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)<br>
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=latikdesu&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latikdesu&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
-
-[//]: <img src="https://www.codewars.com/users/LatikDesu/badges/micro" alt=""/>    
+<br>
+  
+### 💻 GitHub Profile Stats
+<div style="display: flex; align-items: center; justify-content: center;">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="latikdesu's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=latikdesu&theme=monokai-metallian&hide_border=true&short_numbers=true"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="latikdesu's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=latikdesu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height=195/></a>
+<!-- Временно убранная ссылка:
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="latikdesu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=latikdesu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+-->
+</div>
+<br/>
